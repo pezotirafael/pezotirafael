@@ -2,7 +2,7 @@
 
 Meu Nome é Carlos Miguel Pezoti 
 
-- Estou estudanado mo Alura
+- Estou estudanado no Alura
 - Estou me desenvovelndo no Github
 - Utilizo esse espaço para me organinar
 
